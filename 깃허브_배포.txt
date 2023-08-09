@@ -1,0 +1,12 @@
+리파지토리 repository
+genesis
+
+origin 오리진(리파지토리 웹주소 url)
+https://github.com/melonstone/genesis.git
+
+
+명령어 우분투(윈도우에서 리눅스 명령어 사용)
+깃배쉬
+gitbash
+
+git-scm.com
